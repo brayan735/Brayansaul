@@ -1,0 +1,23 @@
+.bar{
+background: #8b8b8b;
+font-size: 30px;
+}
+
+
+.ini{
+	margin: 0px 0px 0px 500px ;
+    font-family: 'Lobster', cursive;
+	transition: 1.20s;
+	color: #FBD433;
+}
+
+.cuenta{
+	margin: 1000px 0px 1000px 100px  ;
+    font-family: 'Lobster', cursive;
+	transition: 1.20s;
+	color: #FBD433;
+}
+.cuenta:hover, .ini:hover{
+	color: #af9423;
+	transition: 0.60s
+}
